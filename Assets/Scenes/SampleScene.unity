@@ -1915,41 +1915,52 @@ Transform:
   m_GameObject: {fileID: 733682017}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 51, y: 0, z: -50}
+  m_LocalPosition: {x: 0, y: -51.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1482775574}
-  - {fileID: 1986702916}
-  - {fileID: 1218976156}
-  - {fileID: 1472703720}
-  - {fileID: 1886116307}
-  - {fileID: 2074651296}
-  - {fileID: 1330251612}
-  - {fileID: 1317871833}
-  - {fileID: 1239962637}
-  - {fileID: 277121632}
+  - {fileID: 2050364777}
+  - {fileID: 722973688}
+  - {fileID: 936277740}
+  - {fileID: 1735991358}
+  - {fileID: 343559587}
+  - {fileID: 40160466}
+  - {fileID: 1188662105}
+  - {fileID: 299621159}
   - {fileID: 402864315}
-  - {fileID: 1243201383}
-  - {fileID: 947665195}
+  - {fileID: 277121632}
   - {fileID: 1203365596}
   - {fileID: 37359194}
   - {fileID: 2078359254}
-  - {fileID: 1444226556}
-  - {fileID: 1257367292}
-  - {fileID: 311260654}
-  - {fileID: 1788405797}
-  - {fileID: 1718567677}
-  - {fileID: 93042147}
-  - {fileID: 1254511992}
-  - {fileID: 9538905}
-  - {fileID: 1262815328}
-  - {fileID: 299621159}
-  - {fileID: 2050364777}
+  - {fileID: 1745826679}
   - {fileID: 1753506669}
+  - {fileID: 1262815328}
+  - {fileID: 2074651296}
+  - {fileID: 1472703720}
+  - {fileID: 1317871833}
+  - {fileID: 1444226556}
+  - {fileID: 786326665}
   - {fileID: 724450632}
+  - {fileID: 9538905}
+  - {fileID: 1218976156}
+  - {fileID: 1482775574}
+  - {fileID: 1986702916}
+  - {fileID: 1257367292}
+  - {fileID: 175646663}
   - {fileID: 788053968}
+  - {fileID: 1254511992}
+  - {fileID: 1330251612}
+  - {fileID: 1886116307}
+  - {fileID: 1239962637}
+  - {fileID: 311260654}
+  - {fileID: 7470747}
   - {fileID: 1740547024}
+  - {fileID: 93042147}
+  - {fileID: 1718567677}
+  - {fileID: 1788405797}
+  - {fileID: 1243201383}
+  - {fileID: 947665195}
+  - {fileID: 292874594}
   - {fileID: 830362365}
   - {fileID: 531844100}
   - {fileID: 1811173241}
@@ -1957,17 +1968,6 @@ Transform:
   - {fileID: 139777768}
   - {fileID: 123633081}
   - {fileID: 1280517604}
-  - {fileID: 292874594}
-  - {fileID: 7470747}
-  - {fileID: 175646663}
-  - {fileID: 786326665}
-  - {fileID: 1745826679}
-  - {fileID: 1188662105}
-  - {fileID: 40160466}
-  - {fileID: 343559587}
-  - {fileID: 1735991358}
-  - {fileID: 936277740}
-  - {fileID: 722973688}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &786326664
@@ -2708,7 +2708,7 @@ Transform:
   m_GameObject: {fileID: 1190462648}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 553.7378, y: 105.1, z: 441.75385}
+  m_LocalPosition: {x: 0, y: 1.97, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3401,7 +3401,7 @@ GameObject:
   - component: {fileID: 1280517606}
   - component: {fileID: 1280517605}
   m_Layer: 0
-  m_Name: Terrain_(3051.00, 0.00, -3050.00)
+  m_Name: Terrain_6_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
