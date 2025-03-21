@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{ab220b31-2d10-3355-f5be-6e48edf17d6b}</ProjectGuid>
+    <ProjectGuid>{b7316843-1a83-a5ef-7794-d0d62c602c2b}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -442,13 +442,13 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Rocks">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -831,7 +831,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{2df750f4-3c89-130e-e7ca-ccf7b7b14749}</Project>
+      <Project>{1f301a4f-0c96-c686-ab7b-9efd957132dc}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
   </ItemGroup>

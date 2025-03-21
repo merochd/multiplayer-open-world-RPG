@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9258a450-c5c4-adf1-7337-77fb8624dfa4}</ProjectGuid>
+    <ProjectGuid>{433f4389-ab1d-075a-2004-b8798802a9b9}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -407,53 +407,53 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="Mono.CecilX">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.CecilX.Mdb">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
-    </Reference>
-    <Reference Include="Mirror.BouncyCastle.Cryptography">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Assets\Mirror\Transports\Encryption\Plugins\BouncyCastle\Mirror.BouncyCastle.Cryptography.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.CecilX.Pdb">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\unityplastic.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.CecilX.Rocks">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\log4netPlastic.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.collab-proxy@001b54a8988a\Lib\Editor\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0\Runtime\Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.visualscripting@1b53f46e931b\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.CecilX.Mdb">
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.CecilX.Pdb">
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.CecilX">
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.CecilX.Rocks">
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="Mirror.BouncyCastle.Cryptography">
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Assets\Mirror\Transports\Encryption\Plugins\BouncyCastle\Mirror.BouncyCastle.Cryptography.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -831,135 +831,135 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.35f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Multiplayer.Center.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Multiplayer.Center.Editor">
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-      <HintPath>D:\multiplayer open world RPG\multiplayer-open-world-RPG\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+      <HintPath>C:\Users\NITRO 5\Desktop\cours semestre 2\unity projects\A Tank Game\open world magic game\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{62593638-6392-2ba2-5b55-029e58565387}</Project>
+      <Project>{53ad12b4-ca8d-77d6-2ca5-b2159afd97a5}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Telepathy.csproj">
-      <Project>{75c60291-cbbc-fb40-b32c-6e6c56bc3f33}</Project>
+      <Project>{06c8bdb2-36ba-6c22-35cf-bf8214bb8066}</Project>
       <Name>Telepathy</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Components.csproj">
-      <Project>{796583f6-39b9-eb72-be4d-797a8c230370}</Project>
+      <Project>{5ea7e79c-84ac-04fd-2358-398b6976e7d2}</Project>
       <Name>Mirror.Components</Name>
     </ProjectReference>
     <ProjectReference Include="EncryptionTransportEditor.csproj">
-      <Project>{c5873de6-4cdf-b256-3c10-389890d20848}</Project>
+      <Project>{38c003fc-a9e2-762c-cef2-95fdd1c26815}</Project>
       <Name>EncryptionTransportEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.CompilerSymbols.csproj">
-      <Project>{bbb88af6-f654-1664-4297-b53968b30dc5}</Project>
+      <Project>{059c8319-a42a-53a4-93cd-f0c7f46d4c5d}</Project>
       <Name>Mirror.CompilerSymbols</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Authenticators.csproj">
-      <Project>{4cc1333b-5a2b-f65f-741a-1dcb67ecbe56}</Project>
+      <Project>{3180102c-6ae6-e1cb-2f57-000e85910e8f}</Project>
       <Name>Mirror.Authenticators</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Editor.csproj">
-      <Project>{b6ed8fd6-6158-ce87-36ea-f4db00057ea5}</Project>
+      <Project>{e87bdf1e-b8c6-99d3-c8c6-8e358b5c2bc5}</Project>
       <Name>Mirror.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Edgegap.csproj">
-      <Project>{ed90e3d5-72cb-c5a8-b8ea-6aace9d5113b}</Project>
-      <Name>Edgegap</Name>
-    </ProjectReference>
     <ProjectReference Include="kcp2k.csproj">
-      <Project>{d9323852-5ab4-cf11-aaf6-d7fbf64217d4}</Project>
+      <Project>{914027d3-7a6d-1542-7900-3b61b7b1f68b}</Project>
       <Name>kcp2k</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{2df750f4-3c89-130e-e7ca-ccf7b7b14749}</Project>
+      <Project>{1f301a4f-0c96-c686-ab7b-9efd957132dc}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
-    <ProjectReference Include="SimpleWebTransport.csproj">
-      <Project>{a6a3020d-daae-1cf7-753b-151b782d4de3}</Project>
-      <Name>SimpleWebTransport</Name>
-    </ProjectReference>
     <ProjectReference Include="Mirror.Examples.csproj">
-      <Project>{b5741739-bcd4-e4aa-1a75-dbd2b75e9914}</Project>
+      <Project>{4bd54e86-84f9-f0b9-4066-0314cfb59595}</Project>
       <Name>Mirror.Examples</Name>
     </ProjectReference>
+    <ProjectReference Include="Edgegap.csproj">
+      <Project>{69009f0e-f44b-3740-e7c0-4a8cf667a02f}</Project>
+      <Name>Edgegap</Name>
+    </ProjectReference>
+    <ProjectReference Include="SimpleWebTransport.csproj">
+      <Project>{6b5046ea-9404-58fd-48c0-8d9968aef6eb}</Project>
+      <Name>SimpleWebTransport</Name>
+    </ProjectReference>
     <ProjectReference Include="Mirror.Transports.csproj">
-      <Project>{7428c687-a81b-f84b-d0f1-d9ac60afed85}</Project>
+      <Project>{a585635b-0729-d28f-6ed4-c5f4d0228cbc}</Project>
       <Name>Mirror.Transports</Name>
     </ProjectReference>
   </ItemGroup>
