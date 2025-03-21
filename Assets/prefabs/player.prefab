@@ -32,7 +32,7 @@ Transform:
   m_GameObject: {fileID: 599294456717976167}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 553.925, y: 40.415, z: 442}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -173,15 +173,15 @@ MonoBehaviour:
   zoomFOV: 30
   zoomStepTime: 5
   playerCanMove: 1
-  walkSpeed: 5
+  walkSpeed: 10
   maxVelocityChange: 10
   enableSprint: 1
   unlimitedSprint: 1
   sprintKey: 304
-  sprintSpeed: 7
-  sprintDuration: 5
-  sprintCooldown: 0.5
-  sprintFOV: 80
+  sprintSpeed: 20
+  sprintDuration: 20
+  sprintCooldown: 0.1
+  sprintFOV: 75
   sprintFOVStepTime: 10
   useSprintBar: 1
   hideBarWhenFull: 1

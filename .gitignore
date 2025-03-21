@@ -1,0 +1,31 @@
+# 🔥 Ignorer les fichiers temporaires Unity 🔥
+Temp/
+Library/
+Logs/
+UserSettings/
+obj/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# 🔹 Ignorer les Builds
+Builds/
+Build/
+Exports/
+ExportedProject/
+
+# 🚀 Ignorer les données personnelles
+*.bak
+*.orig
+*.swp
+*.lock
+.DS_Store
+Thumbs.db
