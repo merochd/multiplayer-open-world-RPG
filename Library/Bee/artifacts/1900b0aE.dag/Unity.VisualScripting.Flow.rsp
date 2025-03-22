@@ -123,6 +123,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
@@ -132,6 +133,9 @@
 -define:MIRROR_93_OR_NEWER
 -define:MIRROR_96_OR_NEWER
 -define:EDGEGAP_PLUGIN_SERVERS
+-define:PACKAGE_INPUT_SYSTEM_EXISTS
+-define:PACKAGE_INPUT_SYSTEM_1_2_0_OR_NEWER_EXISTS
+-define:PACKAGE_INPUT_SYSTEM_1_4_0_OR_NEWER_EXISTS
 -define:MODULE_AI_EXISTS
 -define:MODULE_ANIMATION_EXISTS
 -define:MODULE_PHYSICS_EXISTS
@@ -139,11 +143,11 @@
 -define:MODULE_PARTICLE_SYSTEM_EXISTS
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll"
--r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll"
--r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll"
--r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll"
--r:"Assets/Mirror/Transports/Encryption/Plugins/BouncyCastle/Mirror.BouncyCastle.Cryptography.dll"
+-r:"Assets/packages/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll"
+-r:"Assets/packages/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll"
+-r:"Assets/packages/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll"
+-r:"Assets/packages/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll"
+-r:"Assets/packages/Mirror/Transports/Encryption/Plugins/BouncyCastle/Mirror.BouncyCastle.Cryptography.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"
@@ -388,13 +392,16 @@
 -r:"Library/PackageCache/com.unity.collab-proxy@001b54a8988a/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@001b54a8988a/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll"
 -r:"Library/PackageCache/com.unity.collab-proxy@001b54a8988a/Lib/Editor/unityplastic.dll"
+-r:"Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
 -r:"Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd/net40/unity-custom/nunit.framework.dll"
+-r:"Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f/Mono.Cecil.dll"
 -r:"Library/PackageCache/com.unity.nuget.newtonsoft-json@74deb55db2a0/Runtime/Newtonsoft.Json.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage@205a02cbcb39/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1b53f46e931b/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1b53f46e931b/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1b53f46e931b/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1b53f46e931b/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"

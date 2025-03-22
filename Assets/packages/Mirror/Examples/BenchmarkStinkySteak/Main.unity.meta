@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 847fec635407d6740979cc0da3b87d40
-TextScriptImporter:
+guid: 6638179907f61ab409bb95f9b7e9680d
+DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 129321
   packageName: Mirror
   packageVersion: 96.0.1
-  assetPath: Assets/Mirror/ScriptTemplates/53-Mirror__Network Behaviour With Actions-NewNetworkBehaviourWithActions.cs.txt
+  assetPath: Assets/Mirror/Examples/BenchmarkStinkySteak/Main.unity
   uploadId: 736421
